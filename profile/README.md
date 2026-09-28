@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/runetes/.github/main/images/logo.png" alt="Runetes" width="420" />
+<img src="https://github.com/runetes/.github/blob/main/images/logo.png?raw=true" alt="Runetes" width="420" />
 
 ### Lessons from building & running platforms at scale
 
@@ -62,7 +62,7 @@ If you're **scaling an internal platform**, **wrestling with multi-tenancy**, or
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/runetes/.github/main/images/logo_R.png" alt="" width="48" />
+<img src="https://github.com/runetes/.github/blob/main/images/logo_R.png?raw=true" alt="" width="48" />
 
 <sub><b>Runetes</b> — from <b>ᚱ</b> <i>Raidho</i>, the rune of the journey, and <i>-netes</i>, for the platforms we run.<br/>Stories from the field, for everyone building the road ahead.</sub>
 
